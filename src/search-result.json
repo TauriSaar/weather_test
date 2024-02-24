@@ -1,0 +1,33 @@
+[
+    {
+      "name": "Tartu",
+      "local_names": {
+        "uk": "Тарту",
+        "lt": "Tartu",
+        "et": "Tartu linn",
+        "he": "טרטו",
+        "pl": "Tartu",
+        "en": "Tartu",
+        "de": "Dorpat",
+        "be": "Тарту",
+        "it": "Tartu",
+        "fi": "Tartto",
+        "ru": "Тарту",
+        "zh": "答尔丢夫"
+      },
+      "lat": 58.3801207,
+      "lon": 26.72245,
+      "country": "EE"
+    },
+    {
+      "name": "Tartu linn",
+      "local_names": {
+        "et": "Tartu linn",
+        "lt": "Tartu miestas",
+        "ru": "город Тарту"
+      },
+      "lat": 58.395645349999995,
+      "lon": 26.630885501668523,
+      "country": "EE"
+    }
+  ]
